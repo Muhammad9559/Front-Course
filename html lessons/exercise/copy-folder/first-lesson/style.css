@@ -1,0 +1,33 @@
+/* body{
+    background-color: gold;
+} */
+
+*{
+    background-color: #000;
+}
+
+div h1{
+    color: red;
+}
+
+main > p {
+    color: blue;
+}
+
+
+main ~ h1{
+    color: silver;
+}
+
+main + h1{
+    color: gold;
+}
+
+.testclass{
+    color: magenta;
+}
+#testid{
+    color: greenyellow;
+}
+
+
